@@ -1,10 +1,6 @@
-# movies-explorer-frontent
-Репозиторий для фронтенда приложения проекта `Movies Explorer`
+# movies-explorer-frontend
+Frontend for `Movies Explorer` project.
 
-Адрес репозитория: https://github.com/Skavr666/movies-explorer-frontend
+Made with React.
 
-Ссылка на макет: https://disk.yandex.ru/d/EsteQJkZJnDYWg
-
-Сылка на пул реквест: https://github.com/Skavr666/movies-explorer-frontend/pull/2
-
-Ссылка на сайт: https://skavr.nomoredomains.rocks/
+[Backend repo](https://github.com/yegorsid/movies-explorer-api)
